@@ -1,8 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [100MB](./100MB)
-- [download](./download)
-- [wpku3cgl](./wpku3cgl)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
