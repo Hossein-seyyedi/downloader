@@ -2,6 +2,7 @@
 
 - [100MB](./100MB)
 - [c7goy90z](./c7goy90z)
+- [download](./download)
 
 ---
 
